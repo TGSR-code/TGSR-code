@@ -6,13 +6,13 @@ Welcome to **TGSR**!
 
 ## About
 
-TGSR is the owner of [Octoling Media](https://octolng.com), a creative media platform.
+TGSR is the owner of [Octoling Media](https://octoling.com), a creative media platform.
 
 ---
 
 ## Links
 
-- 🌐 [Octoling Media Website](https://octolng.com)
+- 🌐 [Octoling Media Website](https://octoling.com)
 
 ---
 
